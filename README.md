@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/arrismo-kaggle-mcp-badge.png)](https://mseep.ai/app/arrismo-kaggle-mcp)
+
 # Kaggle-MCP: Kaggle API Integration for Claude AI
 
 ```
